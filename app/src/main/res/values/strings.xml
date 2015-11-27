@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncLoadImg</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">清除缓存</string>
+
+    <string name="clear_disk_cache">缓存清理完成</string>
+</resources>
