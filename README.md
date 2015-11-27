@@ -5,7 +5,7 @@
 
 It will not download or load Image until slide is stop. And it will only load Image on visible screen area.
 
-<img src="screenshot.png" width="30%" height="30%"/>
+<iframe height=480 width=320 src="introduce.mp4" frameborder=0 allowfullscreen></iframe>
 
 And you can use like this.
 
