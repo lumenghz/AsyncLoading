@@ -1,7 +1,7 @@
 # AsyncLoading
 ------
 
-> This project can help you load Image in ListView
+> This project can help you load Image in ListView. Thanks to my teacher Rio who helped me restructured this project.
 
 It will not download or load Image until slide is stop. And it will only load Image on visible screen area.
 
