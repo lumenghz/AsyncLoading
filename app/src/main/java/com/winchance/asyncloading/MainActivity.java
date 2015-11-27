@@ -2,6 +2,7 @@ package com.winchance.asyncloading;
 
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
@@ -127,6 +128,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String url = data[position];
 
+                textView.setTextColor(Color.parseColor("#679f73"));
                 textView.setText(url);
                 Bitmap bitmap = mBitmapLoader.get(url);
                 if (null != bitmap) {
