@@ -5,4 +5,7 @@
 
 It will not download or load Image until slide is stop. And it will only load Image on visible screen area.
 
-<img src="screenshot.jpg" width="30%" height="30%">
+<img src="screenshot.png" width="30%" height="30%">
+
+```
+```
