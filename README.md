@@ -5,7 +5,7 @@
 
 It will not download or load Image until slide is stop. And it will only load Image on visible screen area.
 
-<img src="introduce.gif"/>
+<img src="introduce.gif" width="40%" height="40%"/>
 
 And you can use like this.
 
